@@ -1,0 +1,6 @@
+{
+  "name": "Kovex — Gestión Rápida para Comercios",
+  "description": "Sistema ligero de punto de venta (POS), control de inventario en tiempo real con alertas de stock y generador de pedidos por WhatsApp para tiendas y comercios locales en Colombia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
